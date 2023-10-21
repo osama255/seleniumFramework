@@ -1,0 +1,31 @@
+[
+{
+
+     "lite_content_saudia" : "LITE",
+	 "lite_price_saudia":"15 SAR/month",
+     
+      "classic_content_plan_saudia" : "CLASSIC",
+      "classic_content_price_saudia" : "25 SAR/month",
+     
+      "premium_content_plan_saudia" : "PREMIUM",
+      "premium_content_price_saudia" : "60 SAR/month",
+     
+      "lite_content_bahrin":"LITE",
+      "lite_price_bahrin":"2 BHD/month",
+	
+      "classic_content_bahrin":"CLASSIC",
+      "classic_price_bahrin":"3 BHD/month",
+     
+      "premium_content_plan_bahrin":"PREMIUM",
+      "premium_content_price_bahrin":"6 BHD/month",
+     
+      "lite_content_kuwait" : "LITE",
+      "lite_price_kuwait" : "1.2 KWD/month",
+	
+      "classic_content_plan_kuwait" : "CLASSIC",
+      "classic_content_price_kuwait" : "2.5 KWD/month",
+     
+      "premium_content_plan_kuwait" : "PREMIUM",
+      "premium_content_price_kuwait" :"4.8 KWD/month"
+}
+]
